@@ -71,10 +71,13 @@ If you want to collaborate, please raise an issue or submit a pull request.
 **Sulaiman Amir**  
 [LinkedIn](#) 
 https://www.linkedin.com/in/m-sulaiman-amir-ab043632b/
----
+
 [Email](#)
 SulleMaan007@gmail.com
----
+
 [Credly](#)
 https://www.credly.com/users/m-sulaiman-amir
+
+[Website](#)
+sulaimanamir.com
 ---
